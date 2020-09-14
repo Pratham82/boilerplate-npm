@@ -4,7 +4,7 @@
 	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment": "^2.28.0"
+		"moment": "2.14.0"
 	},
 	"description": "This is an awesome experience in node.js updated",
 	"main": "server.js",
