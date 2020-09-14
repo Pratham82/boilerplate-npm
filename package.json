@@ -3,8 +3,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"version": "1.0.0",
 	"dependencies": {
-		"express": "^4.14.0",
-		"moment": "^2.10.2"
+		"express": "^4.14.0"
 	},
 	"description": "This is an awesome experience in node.js updated",
 	"main": "server.js",
